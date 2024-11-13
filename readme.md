@@ -17,7 +17,7 @@ PUT YOUR QR CODE IMAGE HERE
 
 2.  Add an image of viewing the log of successfully creating the QR code below.
  
- ![alt text](logimage.png)
+ ![alt text](https://github.com/mizm13/qr-docker-2024/blob/main/logimage.PNG)
 ## Lesson Video
 
 1.  [Scaling and Backend Software Engineering](https://youtu.be/v3LxCmYQVS4)
