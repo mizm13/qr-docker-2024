@@ -16,7 +16,7 @@ PUT YOUR QR CODE IMAGE HERE
 [alt text](QRCode_20241112222630.png)
 
 2.  Add an image of viewing the log of successfully creating the QR code below.
- PUT YOUR LOG IMAGE HERE
+ 
  [alt text](successlogimage.png)
 ## Lesson Video
 
